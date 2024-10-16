@@ -11,4 +11,4 @@ When you spend the time to learn the amazing text editing tricks you can do with
 
 ## VS Code makes it all so simple though...
 
-If you can't give the time to learn the key bindings of Neovim, then there some shortcuts in VSCode and the mouse. So you can still be pretty quick. Having the Git facilities and a terminal built in is handy also.
+If you can't give the time to learn the key bindings of Neovim, then there some shortcuts in VSCode and the mouse. So you can still be pretty quick. Having the Git facilities and a terminal built in is handy also. I could add the plugin to give Vim key bindings. That didn't seem to work that well when I tried it though. So when in VSCode I miss doing the  quick tricks like hitting a key combo to remove a bunch of code in between something like a pair or quotes and immediately start typing in the text to replace it.
