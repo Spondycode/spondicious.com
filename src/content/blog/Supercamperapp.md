@@ -2,7 +2,7 @@
 title: 'SuperCamper App'
 description: 'A useful and social app for campers'
 pubDate: 'Oct 10 20224'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/supercamper.jpeg'
 ---
 
 ## Where are my favourite camping places

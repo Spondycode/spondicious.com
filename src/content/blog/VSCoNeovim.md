@@ -2,7 +2,7 @@
 title: 'VS Code or Neovim'
 description: 'Can you fulfil all your coding needs with Neovim?'
 pubDate: 'Oct 11 2024'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/vscode.png'
 ---
 
 ## Neovim is great for text editing
