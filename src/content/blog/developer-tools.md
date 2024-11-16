@@ -14,7 +14,7 @@ As a software developer, having the right set of tools can significantly impact 
 - Neovim: For those who love customisation and keyboard-driven workflows. I like it but I don't use it much now that I'm using FlutterFlow.
 - Windsurf: Cool code editor for web development with great AI support
 
-![Windsurf IDE Interface](/windsur1.png)
+![Windsurf IDE Interface](/windsurf1.png)
 
 - Cursor: Another great code editor for web development with great AI support
 
