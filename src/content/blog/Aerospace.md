@@ -34,3 +34,5 @@ You don't have to tile the windows; it's also possible to layer them on top of e
 ## It’s First Day So The Jury Is Still Out
 
 It seemed a little bit complicated at first, but then I realised that it was only using the option key mostly. I did find it a little bit difficult to get the application and go to the correct screen on a couple of occasions but I think I’ve managed to get past that difficulty now. That was sorted out by using configuration file. I’ve had a read through some of the documentation and I like the way that it doesn’t alter some of the security within the Mac operating system to make it do the tiling of the windows. For the moment I think I have a winner, although I will be keeping my options open after I have tried this for a week or two.
+
+[And the Winner is...](https://spondicious.com/blog/mac-window-management/)
