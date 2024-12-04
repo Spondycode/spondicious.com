@@ -1,7 +1,8 @@
 ---
 title: 'Using Avante in Neovim'
 description: 'A guide to setting up and using Avante'
-pubDate: '2024 12 04'
+pubDate: '2024 12 04' 
+heroImage: '/avante1.png'
 ---
 
 Avante is a way to us AI in Neovim and it is set up using Claude from Antropic by default but and be changes to use ChatGPT from OpenAI
