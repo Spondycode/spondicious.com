@@ -1,7 +1,7 @@
 ---
 description: 'Getting Estonian Estonian E-Residency and starting a Company'
 pubDate: Dec 12 2024
-heroImage: /blog-placeholder-3.jpg
+heroImage: /campingcatalonia1.png
 title: 'Starting a Software Company'
 ---
 
@@ -22,6 +22,8 @@ There are other ways to do coding, other low code solutions, such as Bubble and 
 ## What Have I Made So Far?
 
 I started by making an application I thought it would be good for camping enthusiasts. The users are able to add their favourite campsites, organised camping places which are not campsites and also wild camping spots. I also added in it away for the users to make contact between themselves. So in some way it was a kind of social network for people who like camping. Users can add ratings for their favourite spots and leave reviews. I had a facility in it where they could use What 3 Words as a way to mark accurately, to within 3m their favourite places for camping.
+
+![Camping Spain](/CampingCataloniaFox1.jpeg)
 
 Next application I made was a customer service to be used by camping sites. They replaced for the way they turned out and all I have to do is go and sell it to the businesses. I have been able to put this on my iPhone and other people’s phones using Testflight. It feels great to see an app I’ve created on actual devices.
 
