@@ -20,11 +20,14 @@ Here is a list of the shortcuts I’ve set up for my most used applications.
 * HyperKey+D to open Drafts
 * HyperKey+B to open Brave
 * HyperKey+F to open Flutterflow
-* HyperKey+I to open the iPhone simulator
+* HyperKey+I to open iPhone simulator
 * HyperKey+C to open Craft
 * HyperKey+V to open Visual Studio Code
 * HyperKey+W to open Wezterm
 * HyperKey+Z to open Keymapp
+* HyperKey+S to open Shottr (For taking screenshots)
+* HyperKey+M to open Mail
+* HyperKey+A to open Windsurf
 
 The above list gives me quick access to all of those applications.
 
@@ -47,3 +50,4 @@ I’m one of my screens I have to the left on my desk, I use that for [Flutterfl
 ## Productivity With Mac Apps
 
 After only using this for a day I already really feel comfortable with it and I like it better than using Aerospace. It was much easier to set this up even though Aerospace only requires messing about with a .toml configuration file. I think there’s a good chance I’m going to use this for quite some time. For now it’s just a case of getting those keyboard shortcuts into my muscle memory.
+
