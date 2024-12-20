@@ -1,7 +1,7 @@
 ---
 description: 'Why I like the Craft App'
 pubDate: Dec 12 2024
-heroImage: /blog-placeholder-3.jpg
+heroImage: /craft3.png
 title: 'Craft The Best PKM Notes Application'
 ---
 
@@ -24,4 +24,8 @@ There is so much information coming at us constantly these days that it is easy 
 
 ## Organising Yourself with Tasks in Craft
 
-This is something else which has been improved on in version 3 of Craft. You have a Tasks page with tasks inbox at the top of the page. Then you have the pinned documents so if you have a document specific for an ongoing project
+This is something else which has been improved on in version 3 of Craft. You have a Tasks page with tasks inbox at the top of the page. Then you have the pinned documents so if you have a document specific for an ongoing project you can get quickly to the tasks.
+
+## Using the AI do things with text
+
+I pasted in the text from my movies and TV series app and hit the forward slash key to get the AI to clean it up. I have a text replacement set up in the iOS settings, I type in 'rxft' which is replaced by 'remove XX and reformat the text' and the AI does its magic. I added the XX in the application when the data is put on the clipboard because it wouldn't let me format it with line breaks. I'll see if there is another way I can do that to get it right at the app level. For now though I have data in the clipboard that I can easily use the AI to clean up.
