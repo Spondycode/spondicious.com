@@ -1,6 +1,6 @@
 ---
 description: 'Why I like the Craft App'
-pubDate: Dec 12 2024
+pubDate: Dec 20 2024
 heroImage: /craft3.png
 title: 'Craft The Best PKM Notes Application'
 ---
