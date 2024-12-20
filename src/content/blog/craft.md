@@ -12,7 +12,7 @@ I like the look of Craft, and it looks good. There is a good deal of customizati
 
 ![Craft App](/Craft1.png)
 
-## What I like about Craft
+## What I like about Craft!
 
 There are new capabilities in the version 3 of Craft. Collections are super useful. I have made use of them with a database of the books I have read. I have also used it to make a database of TV Series and movies I have watched. I have a collection for the authors which I can refer to in the Books Collection. Makes it easier to enter the data and quicker too. Less likely to get duplicates due to spelling mistakes of an authors name. You can set up the collection to show various versions of the data. Grouped by date for example or by author. I like to have a collection view to show me the books I've finished this year. It is all very easy to set up and use.
 
