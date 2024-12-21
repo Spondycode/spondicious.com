@@ -2,7 +2,7 @@
 description: 'Should have been easier to get this working'
 title: "Setting up Astro"
 heroImage: /craft3.png
-date: 2024 12 21
+date: Dec 21 2024
 ---
 
 
