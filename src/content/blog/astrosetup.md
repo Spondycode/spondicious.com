@@ -1,7 +1,7 @@
 ---
 description: 'Astro and the Front Matter'
 pubDate: Dec 21 2024
-heroImage: /imdbscreenshot.png
+heroImage: /Astro1.png
 title: 'Astro Setup'
 ---
 
