@@ -30,3 +30,9 @@ It is pretty universal on YouTube that the Mac Mini is a great choice.
 Most going for the base model with 256GB Storage and being delighted with the computer. They mostly commented about how good it is for video editing, which means it will handle the not so heavy lifting of my coding work no problem. I could have gone for the 16GB version probably, but 24GB will give a bit of extra longevity. I use Chrome for the FlutterFlow application development, so that will use up a good bit of the memory. Other than that I don't have too many applications I need to run on the Mac Mini. 
 
 I don't care about the power button being on the bottom of the computer. I won't be using the power button on the Mac Mini hardly ever anyway. It really is amazing how powerful the Mac Mini is for the size of it. It will look great on the desk, really tidy. I just have to be patient with the wait for it to arrive. I probably could have gone for the 16GB version of the Mac Mini and got it a bit quicker.
+
+## Update - Mac Mini Arrived
+
+The Mac Mini arrived on 18th January 2025. I have been getting it set up and ready for business. I hooked up the 2TB Thunderbolt dive to it and set it up as the Home folder. Still have a few things to finish up with the set up. It's going to be my main computer for coding and general work. The new keyboard is pretty good and I'm not sure if I want to connect up the ZSA Keyboard. I will leave it off for a week and see if I miss it. Still have to add the Streamdeck and get more use out of it. Still need to disconnect a couple of the other drives that I have for TimeMachine and the one I use to back up the hard drive on the MacBook Pro. I have a couple of 4TB drives which were the main data storage and its backup also for the MacBook Pro. They can stay connected to the CalDigit box and the Mac Mini.
+
+All in all I'm happy with the Mac Mini and it's nice to set the MacBook Pro free from the desk. 
