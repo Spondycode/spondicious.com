@@ -12,3 +12,7 @@ When you spend the time to learn the amazing text editing tricks you can do with
 ## VS Code makes it all so simple though...
 
 If you can't give the time to learn the key bindings of Neovim, then there some shortcuts in VSCode and the mouse. So you can still be pretty quick. Having the Git facilities and a terminal built in is handy also. I could add the plugin to give Vim key bindings. That didn't seem to work that well when I tried it though. So when in VSCode I miss doing the  quick tricks like hitting a key combo to remove a bunch of code in between something like a pair or quotes and immediately start typing in the text to replace it.
+
+## What about Other Developer Tools?
+
+The good thing about Windsurf is that it has AI built in to it. Now though it is possible to have some free AI help in the form of GitHub CoPilot. I was paying for the full package of CoPilot which was more useful when I was writing Python and Django code. AI in Windsurf IDE really helps with the writing by suggesting what I might write next. I can hit tab and enter to accept the suggestion. Or I can use the Command Key with the right arrow to take one word at a time. This makes it one of the most useful of [Developer Tools](/blog/developer-tools).

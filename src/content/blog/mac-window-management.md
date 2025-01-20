@@ -7,7 +7,7 @@ heroImage: '/raycast-settings.png'
 
 ## Mac Window Management Again
 
-I tried using bye Yabai for a while until it broke and I had to go back to plain old windows management. In truth, it was all a bit too complicated for what it did. Even set my Mac up so that I would use the Stage Manager, but I thought that was just wasting some of the screen area. Then recently I saw another video showing the application [Aerospace](https://spondicious.com/blog/aerospace/). It is simpler than Yabai and seems to be working quite well. There were a few things that annoyed me a little bit. It didn’t really work too well with multiple monitors, but I did learn a key combination which allowed me to put things back to the way they were supposed to be after it had messed up. Then outcomes another way of doing it making use of native Mac key combinations and commands. I thought I would give it a try and so far I like it. It does make use of [Raycast](https://www.raycast.com/) which I have on my computer as an application launcher in any case. Raycast is really useful and another possibility is to use the one called Alfred.
+I tried using bye Yabai for a while until it broke and I had to go back to plain old windows management. In truth, it was all a bit too complicated for what it did. Even set my Mac up so that I would use the Stage Manager, but I thought that was just wasting some of the screen area. Then recently I saw another video showing the application [Aerospace](/blog/aerospace). It is simpler than Yabai and seems to be working quite well. There were a few things that annoyed me a little bit. It didn’t really work too well with multiple monitors, but I did learn a key combination which allowed me to put things back to the way they were supposed to be after it had messed up. Then outcomes another way of doing it making use of native Mac key combinations and commands. I thought I would give it a try and so far I like it. It does make use of [Raycast](https://www.raycast.com/) which I have on my computer as an application launcher in any case. Raycast is really useful and another possibility is to use the one called Alfred.
 
 ## Keyboard Shortcuts In Raycast – Launcher
 
@@ -43,7 +43,7 @@ If you have an application open with more than one window it’s good to set up 
 
 ## Then There Is Moom
 
-I’m one of my screens I have to the left on my desk, I use that for [Flutterflow](https://spondicious.com/blog/flutterflow/) and for the iPhone Simulator. This is not a half and half split of the screen. The Simulator takes up about quarter of the screen and then I fill up the screen with the Flutterflow application. This is where I use Moom to set up that screen. I have a keyboard shortcut set up for this Meh+F and this works really nicely.
+I’m one of my screens I have to the left on my desk, I use that for [Flutterflow](/blog/flutterflow/) and for the iPhone Simulator. This is not a half and half split of the screen. The Simulator takes up about quarter of the screen and then I fill up the screen with the Flutterflow application. This is where I use Moom to set up that screen. I have a keyboard shortcut set up for this Meh+F and this works really nicely.
 
 ![My Flutterflow setup](/ff-setup.png)
 

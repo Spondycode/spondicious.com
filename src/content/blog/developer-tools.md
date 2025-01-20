@@ -22,7 +22,7 @@ As a software developer, having the right set of tools can significantly impact 
 - Git: The foundation of modern code collaboration
 - GitHub Desktop: Simplified Git workflow for visual learners
 - GitKraken: A powerful Git GUI with intuitive visualization. I tried this and it was OK but didn't want another app with a subscription model.
-- LazyGit: Git made easy. It works from the command line and simplifies the workflow. Saves a lot of typing and makes it easier to get things done. This is the one I use.
+- [LazyGit](/blog/lazygit): Git made easy. It works from the command line and simplifies the workflow. Saves a lot of typing and makes it easier to get things done. This is the one I use.
 ![LazyGit Interface](/lazygit1.png)
 
 ### Terminal Tools

@@ -11,7 +11,7 @@ My computer is a MacBook Pro with an M1 chip. It has a 13-inch screen, and I hav
 
 ## Changed to Using Apple OS Window Management
 
-I kind of liked Aerospace, but there were a couple of apps that didn't like it too much. Joseann who did the tutorial about Aerospace came up with a solution using the Mac ways of moving windows around and also with using Raycast. I also have Moom which is good for this sort of thing too. [Read how I set it up](https://spondicious.com/blog/mac-window-management/).
+I kind of liked Aerospace, but there were a couple of apps that didn't like it too much. Joseann who did the tutorial about Aerospace came up with a solution using the Mac ways of moving windows around and also with using Raycast. I also have Moom which is good for this sort of thing too. [Read how I set it up](/blog/mac-window-management/).
 
 
 
@@ -41,4 +41,4 @@ You don't have to tile the windows; it's also possible to layer them on top of e
 
 It seemed a little bit complicated at first, but then I realised that it was only using the option key mostly. I did find it a little bit difficult to get the application and go to the correct screen on a couple of occasions but I think I’ve managed to get past that difficulty now. That was sorted out by using configuration file. I’ve had a read through some of the documentation and I like the way that it doesn’t alter some of the security within the Mac operating system to make it do the tiling of the windows. For the moment I think I have a winner, although I will be keeping my options open after I have tried this for a week or two.
 
-[And the Winner is...](https://spondicious.com/blog/mac-window-management/)
+[And the Winner is...](/blog/mac-window-management/)

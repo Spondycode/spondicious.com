@@ -8,7 +8,7 @@ title: 'Craft The Best PKM Notes Application'
 
 ## Why I like Craft for PKM
 
-I like the look of Craft, and it looks good. There is a good deal of customization available in the app, and it has a good set of features for working with notes. It is a great app for my needs. I was using [Obsidian](pkm.md) which is good in other ways, but it is a bit clunky and not a proper native app. Electron apps are a bit weird the way they work sometimes. Craft is a proper native app and it is much prettier too. Craft has won design awards and has build in AI functionality which is pretty useful. I use the AI to clean up the data I bring in from my [Movies and TV Series app](movieinfo.md).
+I like the look of Craft, and it looks good. There is a good deal of customization available in the app, and it has a good set of features for working with notes. It is a great app for my needs. I was using [Obsidian](https://spondicious.com/blog/pkm/) which is good in other ways, but it is a bit clunky and not a proper native app. Electron apps are a bit weird the way they work sometimes. Craft is a proper native app and it is much prettier too. Craft has won design awards and has build in AI functionality which is pretty useful. I use the AI to clean up the data I bring in from my [Movies and TV Series app](https://spondicious.com/blog/movieinfo/).
 
 ![Craft App](/Craft1.png)
 
