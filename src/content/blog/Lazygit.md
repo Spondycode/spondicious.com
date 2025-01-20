@@ -1,7 +1,7 @@
 ---
 title: 'How to be a Lazy Git'
 description: 'Keeping multiple revisions of my work using Git and Github' 
-pubDate: 'Dec 20 2025'
+pubDate: 'Jan 20 2025'
 heroImage: '/lazygit_1.png'
 ---
 
