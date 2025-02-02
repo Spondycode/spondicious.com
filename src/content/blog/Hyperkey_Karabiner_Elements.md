@@ -23,4 +23,12 @@ This need arose because I stopped using the ZSA Split keyboard, on which I had s
 
 In the end I lashed out the cash and paid for the Superkey app which is from the same developer as Hyperkey. It does the same thing as Hyperkey but it costs €15 and considering the amount of time I wasted with Karabiner Elements I think it is well worth it. It also has another couple of tricks on his sleeve, apart from giving me the Meh key. it does a thing called the seek and click which looks like it could be really useful. I've set this up with the Hyperkey + S, a small window pops up in which I can a type a word I'm looking for. He rewards me with view showing me where those words are in the app I'm using. I use the ; semi-colon to jump between the highlighed words.
 
-![SuperKey Settings](SuperKey3.png)
+![Karabiner Elements](/Hyperkey_Seek.png)
+
+## Here are settings in Superkey
+
+![Superkey](/superkey_seek.png)
+
+## Settings for the Hyperkey in Superkey
+
+![Superkey](/SuperKey3.png)
