@@ -31,7 +31,8 @@ In this section of steps I have added paragraphs to explain the steps in more de
 6. When I deleted a couple of lines it messed up the numbering of the list. So I just kept going with the flow until I was done then selected the whole list and told the AI to renumber it. It worked perfectly.
 7. I don't usually add tags to the post but the AI did that and I was happy for that to happen.
 8. I have just got a free month of use of the Pro features in Windsurf IDE. So it will write code for me without having to copy and paste out of the Cascade section. It created the file for me and I was only expecting the empty file with just the metadata at the top. Nice to get more.
-9. I was cool to ask in natural language to add the image to the post. I used keyboard shoirtcuts to get the into the right folder for the project. Of course I used [yazi](/blog/yazi.md) to do that. I also used the AI to create the link to another post.           
+9. I was cool to ask in natural language to add the image to the post. I used keyboard shoirtcuts to get the into the right folder for the project. Of course I used [yazi](/blog/yazi.md) to do that. I also used the AI to create the link to another post.
+10. I asked the AI to add a date to the post and it didn't work. I added it manually. It did not get the format right for Astro. I just made the changes. I'll try again in the next blog post and give it a reference file to look at.
 
 ![Windsurf IDE with Gemini 2.0 Flash](/windsurf_full.png)
 
