@@ -1,8 +1,8 @@
 ---
-title: 'Mac Window Management - Aerospace'
-description: 'Mac Window Management with Aerospace'
-pubDate: 'Oct 16 2024'
-heroImage: '/mydesktop1.jpeg'
+title: "Mac Window Management - Aerospace"
+description: "Mac Window Management with Aerospace"
+pubDate: "Oct 16 2024"
+heroImage: "/mydesktop1.jpeg"
 ---
 
 ## Getting the Best from My Mac Desktop Setup
@@ -12,9 +12,6 @@ My computer is a MacBook Pro with an M1 chip. It has a 13-inch screen, and I hav
 ## Changed to Using Apple OS Window Management
 
 I kind of liked Aerospace, but there were a couple of apps that didn't like it too much. Joseann who did the tutorial about Aerospace came up with a solution using the Mac ways of moving windows around and also with using Raycast. I also have Moom which is good for this sort of thing too. [Read how I set it up](/blog/mac-window-management/).
-
-
-
 ![Aerospace TOML](/aerospace-toml.png)
 
 ## Getting the Best from the Space I Have Available with Screen Tiling
