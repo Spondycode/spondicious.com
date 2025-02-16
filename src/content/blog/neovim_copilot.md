@@ -21,7 +21,7 @@ return {
 }
 ```
 
-Then I had to run 'Copilot auth' as a command in Neovim. I got a code to enter in the Github website and within a minute I was in business.This time after 3 previous attempts as per the other tutorial, it worked for me. All that came next was the disappointment of the Copilot AI in Neovim.
+Then I had to run 'Copilot auth' as a command in [Neovim](/blog/neovim_customization). I got a code to enter in the Github website and within a minute I was in business.This time after 3 previous attempts as per the other tutorial, it worked for me. All that came next was the disappointment of the Copilot AI in Neovim.
 I have the little Copilot logo in the status bar at the bottom of the screen. Just not a lot of AI help in the file I'm working on.
 
 ## Neovim Niggles
