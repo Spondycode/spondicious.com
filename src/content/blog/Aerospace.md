@@ -1,11 +1,11 @@
 ---
-title: 'Mac Window Management - Aerospace'
-description: 'Mac Window Management with Aerospace'
-pubDate: 'Oct 16 2024'
-heroImage: '/mydesktop1.jpeg'
+title: "Mac Window Management - Aerospace"
+description: "Mac Window Management with Aerospace"
+pubDate: "Oct 16 2024"
+heroImage: "/mydesktop1.jpeg"
 ---
 
-  ## Getting the Best from My Mac Desktop Setup
+## Getting the Best from My Mac Desktop Setup
 
 My computer is a MacBook Pro with an M1 chip. It has a 13-inch screen, and I have two 32-inch screens connected to it. I like to have plenty of space to work with. The two screens are attached to the desk with arms securely screwed onto the surface, which prevents any stands from resting directly on the desk, giving me more space and making it easier to clean. The large screen to the right is set up with full resolution, while the one on the left has a lower resolution. I prefer this arrangement because it allows me to have one screen that is easier on my eyes--the one on the left. One of the screens is connected through the HDMI port directly on the computer, while the other is connected via a CalDigit box, which I also use to connect several SSD drives. The SSD drives are for Time Machine and general backups. I have automatic backups running daily using SuperDuper. Since I generally use this computer as a desktop machine, I sometimes think I should have bought a Mac mini or a Mac Studio. However, it's nice to think that I can disconnect everything and relax on the sofa to work. I'm very happy with the MacBook Pro, although I occasionally find that the fans start to spin up and it notifies me that I have too many things running or that an app is using a lot of processing power.
 
@@ -13,11 +13,7 @@ My computer is a MacBook Pro with an M1 chip. It has a 13-inch screen, and I hav
 
 I kind of liked Aerospace, but there were a couple of apps that didn't like it too much. Joseann who did the tutorial about Aerospace came up with a solution using the Mac ways of moving windows around and also with using Raycast. I also have Moom which is good for this sort of thing too. [Read how I set it up](/blog/mac-window-management/).
 
-
-
 ![Aerospace TOML](/aerospace-toml.png)
-
-## Getting the Best from the Space I Have Available with Screen Tiling
 
 For my coding with Flutterflow, I find that I like to have the Flutterflow app on the left side of the large screen. This leaves just enough space for the simulator, which shows me what's happening with the app on the iPhone. On the main screen, I have two Google Chrome browser windows. The left one is set up for Flutterflow, where I do my coding, while the right one is for monitoring Firebase. I only use the Flutterflow app to get the live preview working in conjunction with the simulator; it's just a faster way to work. When I tried using the Flutterflow app alone, it was frustrating because some things didn't work properly. I was previously using an application called Moom to organise my windows, and before that, I used something called Yabai, which managed the organisation automatically. I liked Yabai, but it eventually stopped working, so I gave up on it. Recently, I discovered an application called Aerospace that works similarly to Yabai. I set it up today, and so far, I'm quite pleased with it.
 
