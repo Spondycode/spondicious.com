@@ -10,13 +10,13 @@ title: 'Craft The Best PKM Notes Application'
 
 I like the look of Craft, and it looks good. There is a good deal of customization available in the app, and it has a good set of features for working with notes. It is a great app for my needs. I was using [Obsidian](https://spondicious.com/blog/pkm/) which is good in other ways, but it is a bit clunky and not a proper native app. Electron apps are a bit weird the way they work sometimes. Craft is a proper native app and it is much prettier too. Craft has won design awards and has build in AI functionality which is pretty useful. I use the AI to clean up the data I bring in from my [Movies and TV Series app](https://spondicious.com/blog/movieinfo/).
 
-![Craft App](/Craft1.png)
+![Craft App](/craft1.png)
 
 ## What I like about Craft!
 
 There are new capabilities in the version 3 of Craft. Collections are super useful. I have made use of them with a database of the books I have read. I have also used it to make a database of TV Series and movies I have watched. I have a collection for the authors which I can refer to in the Books Collection. Makes it easier to enter the data and quicker too. Less likely to get duplicates due to spelling mistakes of an authors name. You can set up the collection to show various versions of the data. Grouped by date for example or by author. I like to have a collection view to show me the books I've finished this year. It is all very easy to set up and use.
 
-![Craft Collections](/Craft2.png)
+![Craft Collections](/craft2.png)
 
 ## A Place to Put Everything - PKM
 

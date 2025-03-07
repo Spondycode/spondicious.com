@@ -1,6 +1,6 @@
 ---
 title: 'Quartz Notes and Wiki'
-description: 'Quartz is like a stripped down Obisidian' 
+description: 'Quartz is like a stripped down Obsidian' 
 pubDate: 'Jan 24 2025'
 heroImage: '/quartz_1.png'
 ---
