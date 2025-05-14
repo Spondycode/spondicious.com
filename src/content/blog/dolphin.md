@@ -1,7 +1,7 @@
 ---
 title: "Computer on Four Wheels"
 description: "BYD Dolphin is more than just a car"
-pubDate: "Mar 03 2025"
+pubDate: "May 14 2025"
 heroImage: "/dolphin1.jpg"
 ---
 
