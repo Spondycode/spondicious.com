@@ -5,9 +5,9 @@ pubDate: "Mar 03 2025"
 heroImage: "/dolphin1.jpg"
 ---
 
-## Driving Now is More than directing a big Lump of Metal
+## Driving Now is More than Directing a Big Lump of Metal
 
-![image](EVpluggedIn.jpeg)
+![image](/EVpluggedIn.jpeg)
 Interacting with the software that runs the car is a huge part of the driving experience now. I just bought a BYD Dolphin and the large screen is full of Android software. Sometimes it can be annoying and fortunately often it can be really helpful. The software will look after so many tasks and give you loads of important feed back to keep you safe on the road. It can integrate with the mechanical parts and even drive the car for you. The Dolphin does that by keeping the car in the lane even when there is a bend in the road. How cool is that? It also has a system which will look at the traffic signs and tell you when you are driving faster than what it say is the limit. On the face of it that's great to stop you getting fines for driving too fast. Hardly anyone drives completely within the speed limit. Also there are times when the limit changes, say from 70 down to 40, do you really need to hear binging and bonging every time that happens? It can drive you nuts. It is possible to stop the alerts but it has to be done each journey. Every time the car is started it resets the default back to the alerts being annoying again.
 
 ### Update
@@ -16,7 +16,7 @@ I found out a quick way to turn off the traffic light recognition. I can swipe d
 
 ## Lovely Big Screen in the BYD Dolphin
 
-![image](dolphin2.jpeg)
+![image](/dolphin2.jpeg)
 
 Lots of nice things have been said about the screen in the Dolphin because it rotates. Most of the time you will leave it in Landscape mode. That's how you need to have it to use Apple Car Play. I have put it in portrait mode once so far and put it straight back into Landscape. There are a lot of switches in the car, in the doors, in a cluster under the panel and a few more below that. But the place to get a lot of stuff done in in the large screen. What would be really nice is to hack the Android system running the car and to personalise it so you can stop the bings and bongs BYD think we need to keep us safe below the speed limit.
 
@@ -37,4 +37,4 @@ I have also looked and the BYD navigation and it looks pretty good. I set it to 
 ## EV's are Cheap to Run
 
 I fill up the battery at home and often I can do it for free. I have solar panels on the roof and a home battery of 5kWh's. I am a data freak and I like to track the charging of the car. So I have created a app which is in the Apple App Store. It is called EV Data and it tracks the charging of the car. I can see how much I have charged and I'm really pleased with it and I think you will be too.
-![MY EV Data App](EVdataApp1.jpeg)
+![MY EV Data App](/EVdataApp1.jpeg)
