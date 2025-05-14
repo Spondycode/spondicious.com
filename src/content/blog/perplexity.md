@@ -1,7 +1,7 @@
 ---
 description: "Using the AI Search of Perplexity"
 pubDate: "Mar 26 2025"
-heroImage: /perplexity1.png
+heroImage: /perplexity1.jpeg
 title: "Perplexity AI - Cool or What?"
 ---
 
