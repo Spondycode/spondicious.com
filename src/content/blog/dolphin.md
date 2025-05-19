@@ -39,3 +39,7 @@ I have also looked and the BYD navigation and it looks pretty good. I set it to 
 
 I fill up the battery at home and often I can do it for free. I have solar panels on the roof and a home battery of 5kWh's. I am a data freak and I like to track the charging of the car. So I have created a app which is in the Apple App Store. It is called [EV Data](https://apps.apple.com/us/app/ev-data/id6745117683) and it tracks the charging of the car. I can see how much I have charged and I'm really pleased with it and I think you will be too.
 [![My EV Data App](/EVdataApp1.jpeg)](https://apps.apple.com/us/app/ev-data/id6745117683)
+
+## OTA Update - My First One
+
+It was nice to get an update from BYD and I love getting whatever is new and exciting. I do prefer it if the new thing is also useful. So far after a couple of days I have not noticed anything that benefited me in using the car. On the other hand the software update added an extra tap to get a job done when I start driving the car. So a bit disappointing. Apart from that the update seems more about a redesign of the software to make it look nicer.
