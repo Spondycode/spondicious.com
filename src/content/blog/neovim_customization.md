@@ -1,8 +1,8 @@
 ---
-description: 'Enhancing Neovim with plugins for outlines and markdown formatting'
-pubDate: 'Feb 16 2025'
+description: "Enhancing Neovim with plugins for outlines and markdown formatting"
+pubDate: "Feb 16 2025"
 heroImage: /Neovim_headlines.png
-title: 'Customising Neovim: Adding Outline and Markdown Plugins'
+title: "Customising Neovim: Adding Outline and Markdown Plugins"
 ---
 
 ## Introduction
@@ -15,10 +15,10 @@ For document outlines, we'll use the `outline.nvim` plugin, which provides a cle
 
 ![Outline View](/neovim_outline.png)
 
-
 ### Installation
 
 I used the lazyvim plugin manager, add this to your a outlines.lua file:
+
 ```lua
 return {
   "hedyhli/outline.nvim",
@@ -33,6 +33,7 @@ return {
   },
 }
 ```
+
 It worked out of the box and no other configurations were needed.
 
 ## Enhancing Markdown Headlines
@@ -40,7 +41,6 @@ It worked out of the box and no other configurations were needed.
 For better markdown visualization, we'll use `headlines.nvim`, which adds highlighting and underlining to your markdown headers. Ia m a visual sort of person and I like to see my markdown documents look a bit more professional and colourful. I did make some adjustments to the colours to suit me.
 
 ### Installation
-
 
 Installation can be done with lazy.nvim which is my preference, but you could use Packer if that's your preference:
 
