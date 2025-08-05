@@ -11,8 +11,8 @@ We all start with the built in Terminal app on the Mac because it is there. Then
 
 ## Ghostty is the latest one
 
-Kitty was fine and was doing the job. Saw one of the dev guys I follow moved on to Ghostty and I like the look of it. So Kitty was put to one side. I have my keyboard shortcut in Raycast set up - Hyperkey+G for Ghostty and on the MacBook Pro I still have the Hyperkey set with T for terminal. Well the HyperKey I have set up in [Superkey](/Hyperkey_Karabiner_Elements). I really should get around to cleaning things up and make sure the App launching is the same on both computers. I have not got used to the two Mac setup yet. I'll get there in time...
+Kitty was fine and was doing the job. Saw one of the dev guys I follow moved on to Ghostty and I like the look of it. So Kitty was put to one side. I have my keyboard shortcut in Raycast set up - Hyperkey+G for Ghostty and on the MacBook Pro I still have the Hyperkey set with T for terminal. Well the HyperKey I have set up in [Superkey](/blog/Hyperkey_Karabiner_Elements). I really should get around to cleaning things up and make sure the App launching is the same on both computers. I have not got used to the two Mac setup yet. I'll get there in time...
 
 ## Don't forget there's more terminals
 
-I still can use the terminal in [Windsurf](/developer-tools)
+I still can use the terminal in [Windsurf](/blog/developer-tools)
