@@ -13,4 +13,4 @@ Sometimes I also use Windsurf the IDE to do git related things, I prefer Windsur
 
 I saw that I have a Git Plugin installed here in Neovim. Had a quick look and it doesn't seem as intuitive or as easy as using Lazygit.
 
-I also set up Docker and intalled the Command line tool RipGrep which is for finding files. Don't know how I will use that when I have fzf to use stand alone and also within [Yazi](/blog/yazi)
+I also set up Docker and installed the Command line tool RipGrep which is for finding files. Don't know how I will use that when I have fzf to use stand alone and also within [Yazi](/blog/yazi)
