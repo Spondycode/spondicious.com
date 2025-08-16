@@ -25,4 +25,6 @@ This is a good start, getting the fingers in the right place on the keyboard. Th
 
 Basically the app keeps on adding more letters to the armory of letters you can touch type with. It lets you practice the just added letters and then give you the chance to use them with the letters already learned.
 
+![Touch Type](/touchtype3.png)
+
 One thing I'm not sure about is when to switch completely to touch typing from what I am using now. This article is not being typed with touch typing. I'm still quicker with the wild way I use any fingers to get whichever letter. If I keep doing that, it may slow me down with learning to touch type.
