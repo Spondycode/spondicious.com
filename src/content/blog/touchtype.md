@@ -17,7 +17,7 @@ On the other hand - I do like to dictate using Voice Control on my Apple devices
 
 It's a long timer since 'Mavis Beacon Teaches Typing' but there are plenty of resources on the web and I found one called [Typing Club](https://www.typingclub.com/) that seems to be set up for teaching children, but that's OK for me. I was showing it to my grandchildren and just gave it a try for myself. Why not.... Indeed. There a lot of lessons and I think I will stick with it. It will take some time to get through it all. Reminds me of my first wife going to learn secretarial stuff when she left school. That included touch typing as well as that thing when you take notes with odd squiggles.
 
-![Touch Type](/touchtype2i)
+![Touch Type](/touchtype2.png)
 
 ## Lesson One - J and F and Onwards
 
