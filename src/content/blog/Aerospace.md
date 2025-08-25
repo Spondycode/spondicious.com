@@ -38,3 +38,7 @@ You don't have to tile the windows; it's also possible to layer them on top of e
 It seemed a little bit complicated at first, but then I realised that it was only using the option key mostly. I did find it a little bit difficult to get the application and go to the correct screen on a couple of occasions but I think I’ve managed to get past that difficulty now. That was sorted out by using configuration file. I’ve had a read through some of the documentation and I like the way that it doesn’t alter some of the security within the Mac operating system to make it do the tiling of the windows. For the moment I think I have a winner, although I will be keeping my options open after I have tried this for a week or two.
 
 [And the Winner is...](/blog/mac-window-management/)
+
+## Raycast for the Keyboard Shortcuts
+
+I have everything working great now. I have a shortcut like Hyperkey-C to get to Craft. Hyperkey-T to go the Terminal app I use, Ghostty. The Meh Key-P opens Perplexity. They all are set to fill the screen, but not full screen, there is an edge around them.I also have Option-M set to maximise the app.So Aerospace is gone, it was interesting but I found a better way.
