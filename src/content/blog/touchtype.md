@@ -1,7 +1,7 @@
 ---
 title: "Touch Typing for Old Gits"
 description: "Should have learned touch typing years ago but not too late to start now"
-pubDate: "Oct 16 2025"
+pubDate: "Aug 16 2025"
 heroImage: "/touchtype1.png"
 ---
 
