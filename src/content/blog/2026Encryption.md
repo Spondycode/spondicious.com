@@ -1,5 +1,5 @@
 ---
-title: "Email Encryption in 2026"
+title: "Privacy & Encryption 2026"
 description: "Privacy in the age of a rising surveilance"
 pubDate: "Sep 05 2025"
 heroImage: "/whats-app-privacy.png"
