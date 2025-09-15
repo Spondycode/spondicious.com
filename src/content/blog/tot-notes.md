@@ -1,8 +1,8 @@
 ---
-description: 'Using Tot as a minimalist note-taking solution'
+description: "Using Tot as a minimalist note-taking solution"
 pubDate: Mar 7 2025
 heroImage: /Tot1.png
-title: 'Tot Notes Instead of Sticky Notes'
+title: "Tot Notes Instead of Sticky Notes"
 ---
 
 ## Why Tot for Quick Notes?
@@ -16,16 +16,16 @@ The beauty of Tot lies in its minimalism. Each dot can hold plain text or format
 ## How I Use Tot
 
 I keep my dots organized by theme:
-- Red dot for reminders of snippets to expand things like email addresses.
+
+- Red dot for reminders of snippets to expand things like email addresses
 - Orange dot for code snippets
-- Yellow dot for reminding me of the hyperkey shortcuts for my most used apps.
+- Yellow dot for reminding me of the hyperkey shortcuts for my most used apps
 - Green dot for ideas and brainstorms
 - Blue dot for links to read later
 - Indigo dot - Still working out what to put here
 - Violet dot for draft messages
 
 ![Tot Interface](/Tot2.png)
-
 
 I have a keyboard shortcut to bring up the Tot app and then I can use Cmd + 1 to Cmd + 7 to select the dot I want to use. The escape to get out of that.
 

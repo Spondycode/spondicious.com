@@ -1,8 +1,8 @@
 ---
-title: 'Mac Automation Tools'
-description: 'Mac Automation to Get More Done' 
-pubDate: 'Nov 14 2024'
-heroImage: '/hazel1.png'
+title: "Mac Automation Tools"
+description: "Mac Automation to Get More Done"
+pubDate: "Nov 14 2024"
+heroImage: "/hazel1.png"
 ---
 
 # Mac Automation Tools That Power My Workflow
@@ -11,7 +11,7 @@ As a productivity enthusiast, I rely on several powerful automation tools to str
 
 ## Hazel: The File Management Wizard
 
-[Hazel](https://www.noodlesoft.com/) is my go-to tool for automated file management. This powerful utility watches designated folders and automatically performs actions based on rules you define. 
+[Hazel](https://www.noodlesoft.com/) is my go-to tool for automated file management. This powerful utility watches designated folders and automatically performs actions based on rules you define.
 It really bothers me to have a load of files sitting on the desktop of the Mac being untidy. Hazel helps me keep my desktop clean. The best thing about Hazel is that I always know where my files are.
 Some of my favourite use cases include:
 
@@ -27,7 +27,7 @@ Some of my favourite use cases include:
 [Keyboard Maestro](https://www.keyboardmaestro.com/) is arguably the most powerful automation tool in my arsenal.
 I have to admit that I have not yet mastered Keyboard Maestro. However, I do use it for some basic automations. Some of my favourite use cases include: It's good for moving windows around the screen. Getting files just where you want them. Mostly I use it to clean up text files. Many of my uses for Keyboard Maestro are just working in the background now that I forget it is there and I have to remind myself that I have it.
 
-### This versatile application allows me to:
+### This versatile application allows me to
 
 - Create complex macros triggered by keyboard shortcuts
 - Automate repetitive tasks with custom workflows
@@ -57,6 +57,7 @@ I particularly appreciate:
 ### How These Tools Work Together
 
 While each tool has its strengths, they truly shine when used in combination. For example:
+
 - Hazel handles file organization
 - Keyboard Maestro manages complex desktop workflows
 - Shortcuts bridges the gap between iOS and macOS automation
