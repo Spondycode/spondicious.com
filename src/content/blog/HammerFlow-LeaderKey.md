@@ -2,7 +2,7 @@
 title: "Hammerflow Leader Key or Raycast"
 description: "Keyboard hacks to get things done"
 pubDate: "Sep 07 2025"
-heroImage: "//leader_key1.png"
+heroImage: "/leader-key2.png"
 ---
 
 ## Comparison of these three utilities
