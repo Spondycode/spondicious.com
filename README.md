@@ -64,7 +64,3 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ### Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
-
-#### Lovely
-
-What will come in this level?
