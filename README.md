@@ -1,5 +1,7 @@
 # Astro Starter Kit: Blog
 
+Bloggy blog blog
+
 ## Basics
 
 ```sh
