@@ -21,7 +21,7 @@ This installs Yazi and all the dependencies it needs. It is a very easy install.
 
 ## Customisation of Yazi
 
-The customisation of Yazi is also easy.  I made three config files yazi.toml, keymap.toml and theme.toml. Also need a folder to contain the themes called flavors. Only have to get the default settings and then make my changes. All the customisation is done in the TOML files. It's a very simple way to customise Yazi. I only made a change to have it show the invisible files , although just by pressing the full stop key, dot toggles them on and off. I also changed the setting for the left pane to make it wider. 
+The customisation of Yazi is also easy.  I made three config files yazi.toml, keymap.toml and theme.toml. Also need a folder to contain the themes called flavors. Only have to get the default settings and then make my changes. All the customisation is done in the TOML files. It's a very simple way to customise Yazi. I only made a change to have it show the invisible files , although just by pressing the full stop key, dot toggles them on and off. I also changed the setting for the left pane to make it wider.
 
 You get some icons at the left of the file name to help you visually identify the file type.
 
@@ -46,6 +46,7 @@ Those two are great to get screenshots from the Screenshots Folder and move them
 * Z to use FZF to find and jump to files and folders
 
 ##### You Get Help after typing the first character
+
 ![Yazi](/yazi4.png)
 
 ## The More I use Yazi the more I like it
