@@ -1,4 +1,3 @@
-## Working with Yazi
+# Working with Yazi
 
 So much fun
-
