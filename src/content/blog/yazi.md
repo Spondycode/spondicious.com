@@ -56,3 +56,23 @@ It is proper Good and Geeky to use this Yazi File Manager. I can work with files
 ## Preview of Images in Yazi
 
 ![Yazi](/yazi2.png)
+
+---
+
+## Update 2026-04-24
+
+I wanted better searching in Yazi. I saw a blog post that had good searching set up in Yazi. So I added it to Yazi and this is what I have now. I did enhance it so I got a panel to save me remembering the key combos.
+
+![Search Panel](/YaziSearchPanel.png)
+
+I can hit z to bring up a Search Panel to let me choose which search I want. Some of these are more useful to me than others and I am still finding out how to get the best from it. I like using **z j** to find the folder I want and then using **z s** to find the words in the files. At the folder level the results are not so messy. Makes it easier to choose the file I want from the list.
+
+![Search Table](/yaziSearchTable.png)
+
+Sometimes it's good to do the search without the fuzzy finding. If you know the file name and you are in the right folder. Then **z n** works well to filter out the files.
+
+Here I used **z r** and this is what I got.
+
+![search with zr](/yazi_search-zr.png)
+
+So I am happier using Yazi now I have upgraded the search functionality. It will still take a while to get used to the key combinations and I will probably end up favouring two or three of them. Whatever works for me...

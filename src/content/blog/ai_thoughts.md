@@ -13,7 +13,7 @@ As I mentioned in a previous post, I'm using a tool which allows me to talk to m
 
 Here are some of the tools I've been trying out. Some I've only had a brief look at, and some I've spent more time with. Sometimes, it's difficult to get around the concept of using AI because you have to learn a new vocabulary for dealing with the concepts of AI. Each of the AI tools has a different name for the same thing. So sometimes it's best to just stick with one and learn that as deep as you can go before you try something else. If you spend too much time hopping from one tool to another, you'll only get completely confused.
 
-### Fabric
+## Fabric
 
 ![Fabric Logo](/fabric-logo.jpeg)
 
