@@ -14,7 +14,7 @@ What do I do? Basically lots of lovely geeky and nerdy stuff. Why? Why not... Tw
 
 ## Interesting technology
 
-Making websites with Astro, plain html, css, Tailwind aswell as web apps with Django and Python.
+Making websites with Astro, plain html, css, Tailwind as well as web apps with Django and Python.
 
 I create apps for iOS, Android and Mac.
 
@@ -23,6 +23,8 @@ Coding is fun, even if sometimes it can make you want to pull your hair out.
 Sometimes I learn some new technology just for the sake of learning something new.
 
 Now I am [getting into AI](/blog/ai_thoughts) with Warp, Perplexity, Google AI Studio, Goose and other options.
+
+![Antigravity](/antigravity1.jpeg)
 
 Mostly I play with software, but I'm also into seeing what I can do with Raspberry Pi's.
 
@@ -37,6 +39,8 @@ This website I have put on Netlify and the domain names I use Porkbun. I have an
 Used to use Obsidian for all my notetaking but now my preference is [Craft.](/blog/craft). It is a proper native app for all the platforms where I use it.
 
 [Wezterm](/blog/kitty) is the terminal I use most, it was Kitty, but something new and shiny came along.. I also find [Warp](/blog/vsconeovim) to be handy from time to time as it has AI built into it. Great for when you can't remember the exact terminal command to do what you need to be done.
+
+![Using Gemini in Wezterm](/gemini-wezterm.png)
 
 I like the nerdiness of [Neovim](/blog/vsconeovim) but VS Code has so many useful features. But then there is [Windsurf](/blog/windsurf_gemini_2_flash) which also has AI built into it and I also decided to get a subscription to get the full AI action. You do get some AI without paying, but you have to copy and paste the code from Cascade into the code file.
 

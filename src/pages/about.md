@@ -19,7 +19,7 @@ I am a Mac and Apple guy through and through. I do have an Android phone at
 the moment but I had to get it to test my apps on an Android device. I do
 twiddle and fiddle with Linux on Raspberry Pi computers. The Mac software is
 always better designed with form following function. The apps are just
-prettier and a great to use. I recently set up an old iMac with Linux Mint. Thought it would be good as a home server. Certainly more power than the Raspberry Pi. I find though that I am missing some of the tools I take for granted on my Apple devices. I like to dictate as much as possible.It's so much faster to input text with your voice rather than with the keyboard. 
+prettier and a great to use. I recently set up an old iMac with Linux Mint. Thought it would be good as a home server. Certainly more power than the Raspberry Pi. I find though that I am missing some of the tools I take for granted on my Apple devices. I like to dictate as much as possible.It's so much faster to input text with your voice rather than with the keyboard.
 
 
 ## Coding Update 2026
@@ -27,6 +27,8 @@ prettier and a great to use. I recently set up an old iMac with Linux Mint. Thou
 Flutterflow is now in my rear view mirror. It was great while I was using it, but I have moved on to using AI for my coding. I have loved working with Warp to make code. I have also made software with Google AI Studio and Gemini Commandline tool. AI is definitely the way forward. I like the way I can get a Django project set up ready to work on and customise and I don't have to keep re-inventing the wheel each time. I just have to create an agent and set it on it's journey. Then I can build on top. Flutterflow was bringing in some AI but it was slow to arrive and not that useful.
 
 I have also set up Ollama so I can work locally with some LLM's. I'm still happy with Perplexity that I got free for the year. I will have to get something set up for when the free year is over. I have looked at Claude code but I'd have to have a subscription to use that. I prefer to pay as I go. Which is why I cut the subscription of Warp. I didn't get enough credits to last the whole month and needed to buy more to keep working on a project. If I had a quiet month with it and didn't use the monthly credits, they didn't carry over to the next month.
+
+![crazy coder](/confusedCoder.jpeg)
 
 Other AI Usage - Loving the Google Notebook LLM for research. If I need the AI to look specifically at certain documents the Notebook is really useful. I like to get a summary in audio format when I am learning something. I throw in a couple of Youtube links on the subject and it chats about what is in the videos. It enhances my learning after consuming the video I get a different format which helps me get the information in my head.
 
@@ -38,4 +40,4 @@ Most of the websites I have made in the past have been Wordpress sites. So
 easy to get up and running in an afternoon. This site is made with Astro and
 I'm loving it. Easy setup and It takes just minutes to get it live on the
 internet. With Astro I use Tailwind to style the page and it has been extra
-easy to set up the Tailwind here too. One of the things I like about Astro is that I can set it up to edit pages using Markdown. I don't have to fiddle about with HTML if I don't want to. It's just easier to read and to format the content when working in Markdown. 
+easy to set up the Tailwind here too. One of the things I like about Astro is that I can set it up to edit pages using Markdown. I don't have to fiddle about with HTML if I don't want to. It's just easier to read and to format the content when working in Markdown.
