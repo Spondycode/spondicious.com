@@ -25,8 +25,8 @@ complexities of NeoVim, ZenNotes might just be your perfect gateway.
 ## The NeoVim Configuration Trap
 
 To understand why ZenNotes is a great option, we first have to talk about
-NeoVim. NeoVim is an incredibly powerful, extensible terminal text editor.
-However, it is a blank slate.
+[NeoVim](/blog/neovim_customization) NeoVim is an incredibly powerful,
+extensible terminal text editor. However, it is a blank slate.
 
 Out of the box, NeoVim does not have file tree sidebars, Markdown live previews,
 interactive tag search, or modern aesthetics. To turn NeoVim into a functional
