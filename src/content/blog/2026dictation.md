@@ -121,7 +121,7 @@ available on iOS as well. When the beta testing is finished, it's going to be
 part of the Pro version of Raycast, which is not so expensive. It will give me
 the dictation as well as other Raycast goodies, such as Artificial Intelligence
 capabilities. So I've given it some thinking space in my head with regards to
-making a decision about whether I would go for Wispr Flow or whether I would
+making a decision about whether I would go for WisprFlow or whether I would
 change to Raycast Dictation.
 
 ![Raycast Dictation](/raycastdictation.jpeg)
@@ -272,28 +272,26 @@ screen. It's just a little bit slow. After you've finished the recording, you
 have to wait a little before it puts the text into the application. That could
 be because it's doing some post-processing.
 
-![Fluid Voice](/fluidvoice1.jpeg)
-
-One of the reasons I only used this for a short while is because occasionally it
-would paste in text that already was in the document, so I'd end up having to do
-some cleanup to remove the repeated text. Maybe it's possible to check all of
-the settings within the app and see what's causing this. But seeing as I have
-other dictation apps which are working for me perfectly out of the box. I don't
-think I shall bother.
+![Fluid Voice](/fluidvoice1.jpeg) FluidVoice turns rough, rambling speech into
+polished, ready-to-send text in any app. Free forever, open source, and 100%
+on-device. So it has its good points, but on the other hand, I find it very slow
+to use. It takes a long time for the text to go from the box you see at the
+bottom of the screen and arrive in the app that you're dictating into. It was
+disappointing right from the start, and so I didn't do much else with it.
 
 ## VoiceInk
 
 This is an app I only had a quick look at, and the reason for that was because
-after trying it out, I found Handy which is free, whereas VoiceInk you have to
-pay. The price is not too bad, and it's a one off payment rather than a
-subscription so does that have that in its favour. It works out at $29 for just
-one computer and $49 if you want to use it on two computers. So if you have too
-many subscriptions and you want to save some money, then perhaps this would be a
-good idea. Unless of course the dictation you get from either Handy or Snaply is
-sufficient for you. At least there is a free trial, so you can find out if it's
-up to your standard for dictation and see what other features it has. It's at
-least worth a try if you haven't quite found the dictation app that suits your
-needs yet.
+after trying it out, I found Handy which is free, whereas
+[VoiceInk](https://tryvoiceink.com/) you have to pay. The price is not too bad,
+and it's a one off payment rather than a subscription so does that have that in
+its favour. It works out at $29 for just one computer and $49 if you want to use
+it on two computers. So if you have too many subscriptions and you want to save
+some money, then perhaps this would be a good idea. Unless of course the
+dictation you get from either Handy or Snaply is sufficient for you. At least
+there is a free trial, so you can find out if it's up to your standard for
+dictation and see what other features it has. It's at least worth a try if you
+haven't quite found the dictation app that suits your needs yet.
 
 ![VoiceInk Dictation Pricing](/voiceinlpricing.png)
 
@@ -308,8 +306,10 @@ available on the Mac.
 
 However, I've just discovered a couple more dictation apps I can use on iOS:
 
-- Monologue
-- Aqua Voice
+- [Monologue](https://www.monologue.to/)
+- [AquaVoice](https://aquavoice.com/)
+
+Both have Mac apps too.
 
 So far, I've only had a quick look at these two applications and they work
 pretty well. On the other hand, the big downside they are rather expensive. They
@@ -401,16 +401,17 @@ changes that you require.
 For the moment, it is too early for me to say because my dictation app choice
 will happen in November. Then I will decide whether I want to have a paid
 application or if I want to use one of the free ones. It's going to be difficult
-to make a choice. If I have to go to their full price in Wispr Flow, then I will
+to make a choice. If I have to go to their full price in WisprFlow, then I will
 certainly choose something else. Although I've only had a quick look so far at
-Monologue and Aqua, which are similar to Wispr Flow and have applications on
-both Mac and iOS Then Aqua will be the one I choose. Then again, I could decide
-that I want to avoid having another subscription, even though I found Wispr Flow
-to be well worth the money at $6 a month. I could be tempted by Aqua because
-it's only another $2 a month on top, and it looks pretty good. But then again, I
-have the options of Handy and Snaply, both of which are excellent choices, and
-of those two, at the moment, Snaply is the winner. Free is always good, and that
-might heavily influence my decision. If Snaply is good enough, then I should
+Monologue and Aqua, which are similar to [WisprFlow](https://wisprflow.ai/) and
+have applications on both Mac and iOS Then Aqua will be the one I choose. Then
+again, I could decide that I want to avoid having another subscription, even
+though I found Wispr Flow to be well worth the money at $6 a month. I could be
+tempted by Aqua because it's only another $2 a month on top, and it looks pretty
+good. But then again, I have the options of Handy and Snaply, both of which are
+excellent choices, and of those two, at the moment,
+[Snaply is the winner](https://snaply.ai/). Free is always good, and that might
+heavily influence my decision. If Snaply is good enough, then I should
 definitely use that instead. Another reason I might go for the paid version is
 that it gives me the dictation on iOS as well as on the Mac. The advantage that
 Handy has is that it's available also on Linux so that I can use that on my
@@ -424,11 +425,12 @@ don't use that machine quite so much as I use my Mac and iOS.
 In any case, the sooner I get past this testing stage and have just one
 dictation application on my devices will be a good thing because I'm fed up of
 all of having to remember all of the keyboard shortcuts I've set up for each of
-them. I've already deleted the dictation app monologue. AquaVoice will get used
-until the thousand-year words have been consumed, and then I shall put it aside
-until November. I'll flip flop in between using Handy and Snaply and then make
-my final decision about how good they are in November as well. Snaply does have
-the advantage of better management of dictation snippets and custom vocabulary.
+them. I've already deleted the dictation app monologue.
+[AquaVoice](https://aquavoice.com/) will get used until the thousand-year words
+have been consumed, and then I shall put it aside until November. I'll flip flop
+in between using Handy and Snaply and then make my final decision about how good
+they are in November as well. Snaply does have the advantage of better
+management of dictation snippets and custom vocabulary.
 
 Obviously, when using dictation for this blog post, I've used all of the
 dictation apps. Mostly, I used the dictation app I'm writing about in the blog
