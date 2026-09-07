@@ -2,7 +2,7 @@
 title: "Omarchy Quattro"
 description: "Experimenting with Omarchy Linux On an old iMac "
 pubDate: "Sep 07 2026"
-heroImage: "/hyperland2.png"
+heroImage: "/diveintoomarchy.jpg"
 ---
 
 ### Why install Omarchy?

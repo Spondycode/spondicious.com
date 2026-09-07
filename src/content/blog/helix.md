@@ -2,7 +2,7 @@
 title: "Helix Text Editor"
 description: "Changing from Neovim to Helix text editor"
 pubDate: "Sep 09 2026"
-heroImage: "/helix1.png"
+heroImage: "/helix_escaping.jpg"
 ---
 
 I've been using NeoVim for quite a long time now, mostly using the LazyVim
