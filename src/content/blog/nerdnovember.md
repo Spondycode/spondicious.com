@@ -49,7 +49,7 @@ So how can `fm` actually be useful? The trick is treating it as a lightweight te
 * **OCR and Data Extraction:** It is great at pulling structured text out of images—for instance, scanning photos of receipts and formatting the line items neatly into a table.
 * **Quick Creative Prompts:** Asking it to knock out a quick haiku or a limerick.
 * **Fast Summarisation:** Condensing a short article or a block of notes down into a sentence or two, or extracting a clean set of bullet points.
-`fm` is certainly not going to replace a proper agentic AI like **Antigravity**, nor does it compete with running capable open-weights models like **Gemma** locally through **Ollama** or **LM Studio**. Still, since it is already sitting there in macOS with zero overhead, it is nice to have in the back pocket when I remember to reach for it.
+`fm` is certainly not going to replace a proper agentic [AI like **Antigravity**,](/blog/ai_2026) nor does it compete with running capable open-weights models like **Gemma** locally through **Ollama** or **LM Studio**. Still, since it is already sitting there in macOS with zero overhead, it is nice to have in the back pocket when I remember to reach for it.
 
 ![Apple foundatioin model](/applefoundation.png)
 
@@ -58,7 +58,7 @@ So how can `fm` actually be useful? The trick is treating it as a lightweight te
 ## Omarchy 4.5: Progress, Rough Edges, and Politics
 
 Upgrading to **Omarchy 4.5** on my Linux iMac was a bit of a mixed bag, though mostly positive once the dust settled.
-The headline improvement for my workflow is **dictation**. Omarchy 4.5 switches the default dictation engine to **SuperWhisper**, replacing the previous tool which was painfully slow at putting words onto the screen. With SuperWhisper, text appears almost instantaneously as I speak, removing all the friction that used to frustrate me. That change alone makes Omarchy viable as a proper daily driver—so much so that I am tempted to move the Omarchy iMac into my main office so I actually use it every day.
+The headline improvement for my workflow is **[dictation](/blog/2026dictation)**. Omarchy 4.5 switches the default [dictation](/blog/wisprflow) engine to **SuperWhisper**, replacing the previous tool which was painfully slow at putting words onto the screen. With SuperWhisper, text appears almost instantaneously as I speak, removing all the friction that used to frustrate me. That change alone makes [Omarchy](/blog/omarchy1/) viable as a proper daily driver—so much so that I am tempted to move the Omarchy iMac into my main office so I actually use it every day.
 That said, it wouldn't be a Linux desktop update without a bizarre hiccup: the settings window for SuperWhisper refused to display properly out of the box, and I had to enlist **Antigravity** to diagnose and fix the window-rendering issue. You really don't expect something as fundamental as opening a preferences window to break, and it makes me wonder how many more of these little papercuts lie ahead. Honestly, if I didn't have AI on hand to troubleshoot config files and display quirks in minutes, I probably would have ditched Omarchy within an hour of installing it.
 With AI acting as my Linux sysadmin, however, I am really enjoying it. Omarchy has thoughtful guardrails and built-in learning aids, and it is remarkably malleable. Whenever I want to personalise the setup or remap keybindings, I just get AI to sort out the configs. I also discovered today that pressing `Option + Spacebar` rolls down Omarchy's built-in AI assistant straight from the top of the screen, giving you immediate tools to tweak the system on the fly.
 
@@ -125,4 +125,4 @@ My strategy is to keep Proton Pass as my primary everyday vault, while maintaini
 ### A Friendly Bit of Advice for the "Muggles"
 
 While those of us who live in the terminal might obsess over whether to encrypt our secondary vaults with GPG or `age`, it is sobering to remember how many non-tech "muggle" friends and family members still don't use a password manager at all. Too many people still jot logins down in a paper notebook, use weak passwords, or—worst of all—reuse a single password (something on the level of `passw0rd123`) across every single website they use.
-If you are the tech-savvy person in your circle, consider this your reminder to keep spreading the word. Getting a friend or relative set up with a basic password manager is still the single best bit of digital self-defence you can give them.
+If you are the tech-savvy person in your circle, consider this your reminder to keep spreading the word. Getting a friend or relative set up with a basic password manager is still the single best bit of digital self-defence you can give them. [Encryption is Important](/blog/2026encryption/)
