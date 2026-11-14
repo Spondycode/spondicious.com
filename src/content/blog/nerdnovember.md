@@ -51,6 +51,8 @@ So how can `fm` actually be useful? The trick is treating it as a lightweight te
 * **Fast Summarisation:** Condensing a short article or a block of notes down into a sentence or two, or extracting a clean set of bullet points.
 `fm` is certainly not going to replace a proper agentic AI like **Antigravity**, nor does it compete with running capable open-weights models like **Gemma** locally through **Ollama** or **LM Studio**. Still, since it is already sitting there in macOS with zero overhead, it is nice to have in the back pocket when I remember to reach for it.
 
+![Apple foundatioin model](/applefoundation.png)
+
 ---
 
 ## Omarchy 4.5: Progress, Rough Edges, and Politics
@@ -69,6 +71,8 @@ Let me be clear: I don't agree with right-wing politics in the slightest. But in
 Everyone has to draw their own ethical line with tech founders, and for me, that line is **financial support** and active harm:
 * I would never buy a Tesla now that we all know what Elon Musk is like—he has gone far beyond merely saying something dodgy online. In fact, I used to have a **Starlink** system on my house, which was genuinely useful, but I got rid of it as soon as I possibly could because I refused to keep putting money into Musk's pocket.
 * With Omarchy, on the other hand, the software is free and open. Not a single penny of my money is going to DHH, so boycotting a useful Linux distribution only punishes me.
+
+![Omarchy Autumn](/omarchyscreen.png)
 
 ### Tempted by Omarchy on Apple Silicon
 
